@@ -1,0 +1,24 @@
+h3 {
+    color: blue;
+}
+
+#second p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.6em
+
+}
+
+#second p span {
+    font-weight: bold;
+}
+
+#third p {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 20px;
+    line-height: 1.6em;
+    word-spacing: .2em;
+}
+
+#third p span {
+    font-style: italic;
+}
